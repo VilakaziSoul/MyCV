@@ -2,6 +2,14 @@
 
 Welcome to my personal webpage project! This webpage serves as a platform to share information about me, my skills, education, and how to get in touch.
 
+## Table of Contents
+
+- [About Me](#about-me)
+- [Contact](#contact)
+- [Skills](#skills)
+- [Education](#education)
+- [Preview](#preview)
+- [License](#license)
 
 ## About Me
 
