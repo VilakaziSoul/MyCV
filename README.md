@@ -37,9 +37,6 @@ Here are some of the skills I've acquired:
 - Tshwane University of Technology: National Diploma - Drama
 - IQ Academy: Short Course Certification for Introduction to Information Systems
 
-## Preview
-
-![Preview Image](IMG-2411.JPG)
 
 ## License
 
