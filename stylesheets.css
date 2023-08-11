@@ -1,0 +1,48 @@
+     /* Reset some default margins and paddings */
+     body, h1, h2, h3, h4, p, ul, ol {
+        margin: 3;
+        padding: 3;
+    }
+    
+    /* Set a background color for the entire page */
+    body {
+        background-color: #f7f7f7;
+        font-family: Georgia, Times, 'Times New Roman', serif, sans-serif;
+        line-height: 2.0;
+    }
+    
+    /* Style the header */
+    header {
+        background-color: #898888;
+        color: white;
+        text-align: center;
+        padding: 30px 0;
+    }
+    
+    header h1 {
+        font-family: "Times New Roman", serif;
+    }
+    
+    /* Style sections */
+    section {
+        padding: 20px;
+        margin: 20px 0;
+        background-color: rgb(255, 255, 255);
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    /* Style links */
+    a {
+        color: #0f75e3;
+        text-decoration: none;
+    }
+    
+    /* Style footer */
+    footer {
+        text-align: center;
+        padding: 12px;
+        background-color: #5a5a5a;
+        color: white;
+        font-size: 16px;
+    }
