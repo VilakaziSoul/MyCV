@@ -8,7 +8,6 @@ Welcome to my personal webpage project! This webpage serves as a platform to sha
 - [Contact](#contact)
 - [Skills](#skills)
 - [Education](#education)
-- [Preview](#preview)
 - [License](#license)
 
 ## About Me
