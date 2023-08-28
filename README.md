@@ -1,6 +1,6 @@
-# Kathide Vilakazi - Personal Webpage
+# Kathide Vilakazi 
 
-Welcome to my personal webpage project! This webpage serves as a platform to share information about me, my skills, education, and how to get in touch.
+Welcome to my personal webpage! This webpage serves as a platform to share information about me, my skills, education, and how to get in touch.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to my personal webpage project! This webpage serves as a platform to sha
 
 ## About Me
 
-I am Kathide Sidwell Vilakazi, an aspiring software developer. I'm deeply passionate about technology and its potential to drive positive change in the world. This webpage showcases my journey into the world of software development and provides insight into my skills and experience.
+I am Kathide Sidwell Vilakazi, a software engineer. I'm deeply passionate about technology and its potential to drive positive change in the world. This webpage showcases my journey into the world of software development and provides insight into my skills and experience.
 
 ## Contact
 
@@ -43,6 +43,7 @@ Here are some of the skills I've acquired:
 
 - Tshwane University of Technology: National Diploma - Drama
 - IQ Academy: Short Course Certification for Introduction to Information Systems
+- Hyperion Dev: Certificate of Completion for Software Programming
 
 
 ## License
