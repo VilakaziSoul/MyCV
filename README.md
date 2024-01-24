@@ -18,7 +18,7 @@ I am Kathide Sidwell Vilakazi, a software engineer. I'm deeply passionate about 
 
 Feel free to reach out to me through the following channels:
 
-- Phone: 067-020-5533
+- Phone: 067-688-2548
 - Email: [Sidwelljnq@gmail.com](mailto:Sidwelljnq@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kathide-v-53504585/)
 - GitHub: [GitHub Profile](https://github.com/VilakaziSoul/)
